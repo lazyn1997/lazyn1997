@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazyn1997)](https://github.com/lazyn1997/lazyn1997)
 
 <p align="center" >
-  <b> 2020-07-07 24:00开始,累积<img src="https://profile-counter.glitch.me/lazyn1997/count.svg" />次访问！</b>
+  <b> 2018-01-01 24:00开始,累积<img src="https://profile-counter.glitch.me/lazyn1997/count.svg" />次访问！</b>
 </p>
 <!--
 **lazyn1997/lazyn1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
