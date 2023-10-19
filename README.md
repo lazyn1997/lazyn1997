@@ -15,10 +15,10 @@
 <a title="CSDN" target="_blank" href="https://blog.csdn.net/qq_36949278"><img src="https://img.shields.io/badge/CSDN-c32136" ></a> &emsp;
 <!-- visitor statistics logo 访问量统计徽标 -->
 <!-- <img src="https://badges.strrl.dev/visits/lazyn1997/lazyn1997?&labelColor=282c34&color=353940&logo=github" alt="访问量统计" /> -->
-<img src="https://komarev.com/ghpvc/?username=lazyn1997&label=views&labelColor=282c34&color=353940&logo=github" alt="访问量统计" />
+<a title="github" target="_blank" href="https://github.com/lazyn1997"><img src="https://komarev.com/ghpvc/?username=lazyn1997&label=views&labelColor=282c34&color=353940&logo=github" alt="访问量统计" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/lazyn1997/github-profile-trophy">
+  <a href="https://github.com/lazyn1997">
     <img src="https://github-profile-trophy.vercel.app/?username=lazyn1997" >
   </a>
 </p>
