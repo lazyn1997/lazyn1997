@@ -2,6 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/lazyn1997"><img src="https://github-readme-stats.vercel.app/api?username=lazyn1997&show_icons=true" alt="lazyn1997's Stats" ></a>
+</p>
+<p align="center">
   <a title="CSDN" target="_blank" href="https://blog.csdn.net/qq_36949278"><img src="https://stats.justsong.cn/api/csdn?id=qq_36949278" ></a>
 </p>
 <p align="center">
