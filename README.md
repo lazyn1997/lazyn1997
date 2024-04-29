@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <a title="CSDN" target="_blank" href="https://blog.csdn.net/qq_36949278"><img src="https://stats.justsong.cn/api/csdn?id=qq_36949278" ></a>
+  <a title="掘金" target="_blank" href="https://juejin.cn/user/3353940407097756"><img src="https://stats.justsong.cn/api/juejin?id=3353940407097756" ></a>
 </p>
 <p align="center">
 <!-- GitHub followers -->
